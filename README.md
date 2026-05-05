@@ -50,6 +50,8 @@ To run the project:
 ## 🤝 Contributing
 
 This project is open to contributions. If you find any bugs or have suggestions for improvement, please open an **Issue** or submit a **Pull Request**.
+<img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/738f22d4-186b-4807-ace8-3dbe7755b0e7" />
+<img width="1223" height="451" alt="image" src="https://github.com/user-attachments/assets/8d99abd9-672c-4d9d-916e-5f190cee8362" />
 
 ## 📄 License
 
